@@ -7,3 +7,6 @@ Install CircuitPython 5 on Circuit Playground [Official Tutorial](https://learn.
 ## TODO
 - Fintune the parameters for better accuracy
 - Adding other feature(EX: count reminder time with light indicator)
+## Reference
+[Official Tutorial and examples](https://learn.adafruit.com/circuitpython-made-easy-on-circuit-playground-express/acceleration)
+Inspired by [Upright](https://www.uprightpose.com/) which cause $99 each
